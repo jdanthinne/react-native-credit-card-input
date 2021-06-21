@@ -102,7 +102,7 @@ declare module 'react-native-input-credit-card' {
 
   export class CreditCardInput extends React.Component<ICreditCardInputs> {}
 
-  export class LiteCreditCardInput extends React.Component<ICreditCardInputs> {}
+  export class LiteCreditCardInput extends React.Component<ILiteCreditCardInputs> {}
 
   export class CardView extends React.Component<CardViewInputs> {}
 
