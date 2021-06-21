@@ -56,6 +56,7 @@ declare module 'react-native-input-credit-card' {
     validColor?: string
     invalidColor?: string
     placeholderColor?: string
+    showLast4?: boolean
     additionalInputsProps?: object
   }
 
